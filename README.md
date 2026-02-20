@@ -31,12 +31,19 @@ Data organization using nested collections
 🚀 Features
 
 ✔ Add multiple students
+
 ✔ Display all student records
+
 ✔ Update student details (Age, Grade, Subjects)
+
 ✔ Delete student using ID
+
 ✔ Display unique subjects offered
+
 ✔ Uses tuple for immutable student ID & DOB
+
 ✔ Uses set to ensure no duplicate subjects
+
 ✔ Menu-driven interactive system
 
 🧠 Concepts Used
@@ -68,8 +75,11 @@ Each student is stored as a dictionary inside a list:
 This project shows:
 
 ✔ Practical use of Python collections
+
 ✔ Intermediate-level structured thinking
+
 ✔ Clean CLI application development
+
 ✔ Strong understanding of data modeling
 
 📈 Learning Outcome
